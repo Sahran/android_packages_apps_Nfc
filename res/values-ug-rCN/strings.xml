@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Nfc مۇلازىمەت</string>
+    <string name="nfcUserLabel">Nfc</string>
+    
+    <!-- The label for the NFC admin permission -->
+    <string name="permlab_nfcAdmin">NFCEE باشقۇرۇش </string>
+    <!-- The description for the NFC admin permission -->
+    <string name="permdesc_nfcAdmin">NFC ئىجرا مۇھىتى قاتتىق دېتالىنى تىزگىنلەشكە يول قويىدۇ</string>
+</resources>
